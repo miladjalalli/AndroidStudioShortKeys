@@ -3,15 +3,15 @@ Android Studio Short Keys
 
 Mobile Dev Team
 
-Android Studio Short Keys
-Search Keys
+#Android Studio Short Keys
+#Search Keys
 •	Shift + Shift — Search Every Where
 •	Ctrl + F — Find Text with in a Single File
 •	Ctrl + Shift + F — Find Text in All Files
 •	Ctrl + R — Replace Selected Text in a Single File
 •	Ctrl + Shift + R — Replace Selected Text in all Files (Be Careful while Using This)
 •	Ctrl + Shift + A —Search for IDE Commands
-Navigation Keys
+#Navigation Keys
 •	Ctrl + N — Navigate to Class
 •	Ctrl + Shift + N — Navigate to a File
 •	Ctrl + B — Jump to Declarations
@@ -26,7 +26,7 @@ Navigation Keys
 •	Ctrl + Shift + B — Find Implementations
 •	F3 — Find Next
 •	Shift+F3 — Find Previous
-Bookmark Keys
+#Bookmark Keys
 •	F11 — Toggle bookmark
 •	Ctrl+F11 — Toggle bookmark with mnemonic (0–9 or A-Z)
 •	Ctrl +(0–9) — Go to numbered bookmark
@@ -39,7 +39,7 @@ Selection Keys
 •	Ctrl + Alt + Shift + J — Select all occurrences
 •	Alt + Shift + J — Unselect occurrence
 •	Ctrl + Shift + V — Paste from recent buffers (from a History of Copied Contents)
-Editing Keys
+#Editing Keys
 •	Ctrl + F6 -Refractor Code
 •	Ctrl + D — Duplicate a Line/Selected part
 •	Ctrl + Y — Delete a Line/Selected part
@@ -54,13 +54,13 @@ Editing Keys
 •	Ctrl + / — Comment / uncomment with line comment
 •	Ctrl + Shift + / — Comment / uncomment with block comment
 •	Ctrl + Alt + L — Reformat code
-Run
+#Run
 •	Ctrl + F9 — Compile and Run Make project
 •	Ctrl + Shift + F9 — Compile selected file, package or module
 •	Shift + F10 — Run
 •	Shift + F9 — Debug
 •	Ctrl + Shift + F10 — Run context configuration from editor
-Debugging
+#Debugging
 •	F8 / F7 — Step over / into
 •	Shift + F7 / Shift + F8 — Smart step into/Step out
 •	Alt + F9 — Run to cursor
